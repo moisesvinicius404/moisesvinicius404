@@ -40,7 +40,7 @@ Vejo a programação como uma **arte** de transformar ideias em soluções reais
 
 
 
-### 🤖 Linguagens e Tecnologias que sei ou to estudando
+### 🤖 Linguagens e Tecnologias que sei ou to aprendendo
 
 <img 
     align="left" 
